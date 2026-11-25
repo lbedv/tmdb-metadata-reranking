@@ -1,11 +1,13 @@
 # TMDB Metadata Reranking
 
 [![CI](https://github.com/lbedv/tmdb-metadata-reranking/actions/workflows/ci.yml/badge.svg)](https://github.com/lbedv/tmdb-metadata-reranking/actions/workflows/ci.yml)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tmdb-metadata-reranking.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 A Streamlit app that searches TMDB and reranks movie results using configurable rating, recency, runtime, genre, and keyword factors.
+
+**Live Demo:** [tmdb-metadata-reranking.streamlit.app](https://tmdb-metadata-reranking.streamlit.app)
 
 ## Functionality
 
